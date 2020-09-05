@@ -1,6 +1,6 @@
 # Netlify Photo Gallery
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4d853017-7159-4520-b9ee-cc9951715434/deploy-status)](https://app.netlify.com/sites/netlify-photo-gallery/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d736a876-a048-44d6-adc4-7653fff5dd76/deploy-status)](https://app.netlify.com/sites/covid-19-status-api/deploys)
 
 This is a photo gallery demo project for Netlify Large Media made with photos from [Unsplash](https://unsplash.com/) and built with [Hugo](https://gohugo.io/).
 
@@ -13,7 +13,7 @@ This project has two branches:
 
 1. Deploy to Netlify with "Deploy to Netlify" button. This will create a new Netlify site and copy the repository to your GitHub account.
 
-   [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify/netlify-photo-gallery)
+   [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/dslzuha/covid-19-status)
 2. Find your newly created repository on GitHub and clone it to your local computer with `git clone`.
 3. Follow the instructions for [Enabling Netlify Large Media](https://www.netlify.com/docs/large-media/#enabling-netlify-large-media) to enable Large Media for the newly deployed site.
 4. Specify which files to track using the `git lfs track` command. The following example tracks `jpg` and `png` files. Tracking them is required for this photo gallery, so you can start tracking them:
