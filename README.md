@@ -1,4 +1,4 @@
-# Netlify Photo Gallery
+# covid-19-status
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d736a876-a048-44d6-adc4-7653fff5dd76/deploy-status)](https://app.netlify.com/sites/covid-19-status-api/deploys)
 
